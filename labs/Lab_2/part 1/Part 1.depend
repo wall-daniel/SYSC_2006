@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1548098692 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"sput.h"
+	"power.h"
+
+1548098707 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 1/sput.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1548098701 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 1/power.h
+
+1548100169 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 1/power.c
+	"power.h"
+

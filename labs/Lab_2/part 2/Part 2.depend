@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1548098729 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"sput.h"
+	"composition.h"
+
+1548098733 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 2/sput.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1548098725 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 2/composition.h
+
+1548100889 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_2/part 2/composition.c
+	<stdlib.h>
+	<math.h>
+	"composition.h"
+
