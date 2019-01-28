@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1548704342 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	"sput.h"
+	"exercises.h"
+
+1548704337 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_3/sput.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1548704346 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_3/exercises.h
+
