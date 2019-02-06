@@ -31,9 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="exercises.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exercises.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="sput.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
