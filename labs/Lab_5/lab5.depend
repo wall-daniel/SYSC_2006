@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1550076490 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_5/main.c
+	<stdlib.h>
+	<stdio.h>
+	"sput.h"
+	"fraction.h"
+
+1550076486 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_5/sput.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1550076501 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_5/fraction.h
+
+1550163153 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_5/fraction.c
+	<stdlib.h>
+	<stdio.h>
+	"fraction.h"
+

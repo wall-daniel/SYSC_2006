@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551283097 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_6/main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"sput.h"
+	"polynomial.h"
+
+1551283072 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_6/sput.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1551283077 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_6/polynomial.h
+
+1551298842 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_6/polynomial.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<assert.h>
+	"polynomial.h"
+
