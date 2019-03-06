@@ -83,7 +83,7 @@ double eval_polynomial(polynomial_t *poly, double x)
     assert(poly->num_terms != 0);
 
     double value = 0;
-    for(int i = 0; i < poly->num_terms; i++) {
+    for(int i = 0; i < poly->num_terms || i < MAX_TERMS; i++) {
         value += poly->terms[i]->coeff * pow(x, poly->terms[i]->exp);
     }
     return value;
