@@ -82,12 +82,13 @@ _Bool list_append(list_t *list, int element)
     // Check to make sure list is not null
     assert(list != NULL);
 
-    // Check if there is room
-    if(list->size < list->capacity) {
-        list->elems[list->size++] = element;
-        return true;
+    // Check if there is room, if no increase capacity
+    if(list->size >= list->capacity) {
+        increase_capacity(list, list->capacity * 2);
     }
-    return false;
+    list->elems[list->size++] = element;
+
+    return true;
 }
 
 /* Return the maximum number of integers that can be stored in the list
@@ -148,9 +149,9 @@ void list_removeall(list_t *list)
     assert(list != NULL);
 
     // Set all elements of list to 0
-    for(int i = 0; i < list->size; i++) {
-        list->elems[i] = 0;
-    }
+   // for(int i = 0; i < list->size; i++) {
+    //    list->elems[i] = 0;
+    //}
 
     list->size = 0;
 }

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553538427 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_10/circular_queue.c
+	<stdlib.h>
+	<assert.h>
+	<stdbool.h>
+	<stdio.h>
+	"circular_queue.h"
+
+1553397816 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_10/circular_queue.h
+
+1553397844 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_10/main.c
+	<assert.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	"circular_queue.h"
+

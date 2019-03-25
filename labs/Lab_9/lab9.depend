@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1552843770 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_9/main.c
+	<assert.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	"linked_list.h"
+
+1552843798 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_9/linked_list.h
+
+1552934892 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_9/linked_list.c
+	<assert.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<limits.h>
+	"linked_list.h"
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1552329236 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_8/array_list.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"array_list.h"
+
+1552327615 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_8/array_list.h
+	<stdbool.h>
+
+1552327610 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_8/main.c
+	<stdlib.h>
+	<stdio.h>
+	"sput.h"
+	"array_list.h"
+
+1552327604 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_8/sput.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1552329010 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_8/additional_functions.c
+	"array_list.h"
+	<stdlib.h>
+	<assert.h>
+
