@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554051098 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_11/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<assert.h>
+	"recursive_functions.h"
+
+1554051038 /home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_11/recursive_functions.h
+
+1554143740 source:/home/dwall/OneDrive/SYSC_2006/SYSC_2006/labs/Lab_11/recursive_functions.c
+	<stdio.h>
+	<math.h>
+	<assert.h>
+	"recursive_functions.h"
+
